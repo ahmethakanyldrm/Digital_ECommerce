@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Digital_API_Layer/Digital_API_Layer.csproj" Id="d154cb94-f8ff-49b4-a25d-b47c275e5609" />
+  <Project Path="Digital_Core_Layer/Digital_Core_Layer.csproj" Id="0fef2ca1-6ffb-4611-a55f-1164e053c365" />
+  <Project Path="Digital_Domain_Layer/Digital_Domain_Layer.csproj" Id="b6f37c1e-c74c-43b0-8967-454a16eaa827" />
+  <Project Path="Digital_Infrastructure_Layer/Digital_Infrastructure_Layer.csproj" Id="66659f43-398f-476b-8432-43a1a84a1821" />
+  <Project Path="Digital_Persistence_Layer/Digital_Persistence_Layer.csproj" Id="4086f53b-cbe8-48db-aa99-72fa88f89798" />
+</Solution>
